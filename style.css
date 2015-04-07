@@ -1,0 +1,87 @@
+#main{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -400px;
+    margin-top: -300px;
+    width: 800px;
+    height: 600px;
+    box-shadow: 0 0 0 1px lightgray;
+    overflow: hidden;
+}
+#f1{
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     margin-left: -400px;
+     margin-top: -300px;
+     width: 800px;
+     height: 600px;
+     box-shadow: 0 0 0 1px gray;
+
+}
+#f2{
+    position: absolute;
+    left: 150%;
+    top:0;
+    height: 600px;
+    width: 800px;
+}
+.person{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
+.person:hover{
+    box-shadow: 0 0 0 1px lightgray;
+}
+#q1{
+    left: 0;
+    top: 0;
+}
+#q2{
+    left: 650px;
+    top: 0;
+}
+#q3{
+    left: 0;
+    top: 500px;
+}
+#q4{
+    left: 650px;
+    top: 500px;
+}
+#sent{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    text-align: center;
+    font: 40px "Times New Roman";
+    width: 600px;
+    height: 400px;
+    vertical-align: middle;
+    word-break: normal;
+    border-radius: 15px;
+
+}
+#sent:hover{
+    box-shadow: 0 0 0 2px lightgreen;
+}
+#s1{
+    position: absolute;
+    left: 0;
+    top: 30%;
+    text-align: center;
+    width: 100%;
+}
+#s2 {
+    position: absolute;
+    left: 0;
+    top: 40%;
+    text-align: center;
+    width: 100%;
+    font: 40px "Times New Roman";
+}
